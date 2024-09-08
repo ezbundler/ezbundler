@@ -4,7 +4,7 @@
 
 <img align="center" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png">
 
   
    -> 🚀 Building cool things with **Node.js** , **MongoDB** and **React**.
