@@ -4,12 +4,15 @@
 
 <img align="center" alt="coding" width="1000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png">
+
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
   
    -> 🚀 Building cool things with **Node.js** , **MongoDB** and **React**.
    
    -> 🌱 I’m currently making projects on "MERN stack".
+
+
 
    -> 💡 Open to collaborations on exciting projects.
    
